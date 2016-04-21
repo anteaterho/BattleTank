@@ -1,3 +1,5 @@
+*.VC.db
+
 # Compiled Object files
 *.slo
 *.lo
@@ -56,3 +58,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter Content
+Content/StarterContent
